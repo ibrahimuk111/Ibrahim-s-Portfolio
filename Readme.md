@@ -8,14 +8,17 @@ The implementations contained herein focus on scalable architecture, production-
 
 ## 📂 Repository Structure
 
-├── 📁 Advanced NLP Projects/      # Sequence models, transformers, and deep text architectures
-├── 📁 Computer Vision Projects/   # Medical imaging, YOLO detection, deepfake and anomaly detection
-├── 📁 Data Analysis Projects/     # Statistical profiling, EDA, and predictive modeling
-├── 📁 LLM Projects/               # Fine-tuning, prompt engineering, and agentic frameworks
-├── 📁 LangChain Projects/         # RAG chatbots, document QA, SQL agents, and LLM app pipelines
-├── 📁 Machine Learning Projects/  # Classical ML, ensemble methods, and applied modeling
-└── 📁 RAG Projects/               # Semantic search, vector databases, and knowledge retrieval
-
+```
+Ibrahim-s-Portfolio/
+│
+├── Advanced NLP Projects/        # Sequence models, transformers, and deep text architectures
+├── Computer Vision Projects/     # Medical imaging, YOLO detection, deepfake and anomaly detection
+├── Data Analysis Projects/       # Statistical profiling, EDA, and predictive modeling
+├── LLM Projects/                 # Fine-tuning, prompt engineering, and agentic frameworks
+├── LangChain Projects/           # RAG chatbots, document QA, SQL agents, and LLM app pipelines
+├── Machine Learning Projects/    # Classical ML, ensemble methods, and applied modeling
+└── RAG Projects/                 # Semantic search, vector databases, and knowledge retrieval
+```
 ## 🛠️ Tech Stack & Core Competencies
 Languages: Python (SQL, Bash)
 
