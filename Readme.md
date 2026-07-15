@@ -8,14 +8,13 @@ The implementations contained herein focus on scalable architecture, production-
 
 ## 📂 Repository Structure
 
-The portfolio is architected into modular directories, each dedicated to a core domain of modern artificial intelligence and data science:
-
-```text
-├── 📂 Advanced NLP Projects/     # Sequence models, transformers, and deep text architectures
-├── 📂 LLM Projects/             # Fine-tuning, prompt engineering, and agentic frameworks
-├── 📂 RAG Projects/             # Semantic search, vector databases, and knowledge retrieval
-└── 📂 Data Analysis Projects/   # Statistical profiling, EDA, and predictive modeling
-```
+├── 📁 Advanced NLP Projects/      # Sequence models, transformers, and deep text architectures
+├── 📁 Computer Vision Projects/   # Medical imaging, YOLO detection, deepfake and anomaly detection
+├── 📁 Data Analysis Projects/     # Statistical profiling, EDA, and predictive modeling
+├── 📁 LLM Projects/               # Fine-tuning, prompt engineering, and agentic frameworks
+├── 📁 LangChain Projects/         # RAG chatbots, document QA, SQL agents, and LLM app pipelines
+├── 📁 Machine Learning Projects/  # Classical ML, ensemble methods, and applied modeling
+└── 📁 RAG Projects/               # Semantic search, vector databases, and knowledge retrieval
 
 ## 🛠️ Tech Stack & Core Competencies
 Languages: Python (SQL, Bash)
@@ -29,6 +28,8 @@ Data Science & Machine Learning: Scikit-Learn, XGBoost, LightGBM, CatBoost, Pand
 Vector Databases & Retrieval: FAISS, ChromaDB, Pinecone
 
 Explainable AI (XAI): SHAP, LIME
+
+Computer Vision: openCV, YOLOv8/YOLOv9, EfficientNet, VGG16, dlib, MobileNet-SSD
 
 ## 🚀 Key Domain Overview
 1. Large Language Models (LLMs) & Agentic AI
@@ -50,6 +51,10 @@ Applications: Sequence labeling, named entity recognition (NER), intent classifi
 Focus: Exploratory Data Analysis (EDA), anomaly detection, and building highly optimized predictive models for complex, tabular datasets.
 
 Methodology: Advanced feature engineering, class-imbalance handling (SMOTE, cost-sensitive learning), and post-hoc model interpretability via SHAP values.
+
+5. Computer Vision & Medical Imaging Focus: Object detection (YOLO), classification (CNN, EfficientNet, VGG16), and real-time video analysis.
+
+**Applications:** Brain tumor, lung cancer, and blood cell cancer detection, deepfake and image tampering forensics, face liveness anti-spoofing, ANPR, fire and drowsiness detection, and driver safety systems.
 
 ---
 
