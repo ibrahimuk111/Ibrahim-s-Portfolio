@@ -8,7 +8,7 @@ Welcome to the central repository for **Muhammad Ibrahim's** Machine Learning, A
 
 ---
 
-## 📂 Repository Architecture
+## 📂 Complete Repository Architecture
 
 ```
 Ibrahim-s-Portfolio/
@@ -49,25 +49,27 @@ Ibrahim-s-Portfolio/
 │   ├── Homomorphic_Encryption_Inference_Engine/ # TenSEAL encrypted neural net infer
 │   └── Secure_MultiParty_Computation_Analytics/# Secret sharing analytics
 │
-├── 🔤 Advanced NLP Projects/                  # Transformers, sequence models, SpaCy
-├── 👁️ Computer Vision Projects/               # Medical imaging, YOLOv8/v9, deepfake forensics
-├── 📊 Data Analysis Projects/                 # Statistical profiling, predictive modeling
-├── 🧠 LLM Projects/                           # Prompting, fine-tuning, function calling
-├── 🔗 LangChain Projects/                     # RAG chatbots, SQL agents, document QA
-├── ⚙️ Machine Learning Projects/              # Ensemble algorithms, Scikit-Learn
-└── 🎯 RAG Projects/                           # Multi-modal RAG, RAGAS evaluation, FAISS
+├── 🧠 LLM Projects/
+│   ├── GraphRAG_KnowledgeGraph_Engine/        # Neo4j + LangChain Knowledge Graph RAG
+│   ├── FineTuned_Medical_Legal_Specialist_LLM/ # Unsloth + QLoRA + GGUF export
+│   └── Local_vLLM_Inference_Server/            # vLLM PagedAttention streaming server
+│
+├── 🎯 RAG Projects/
+│   ├── Multi_RAG_Router_Agent/                 # LlamaIndex multi-index query router
+│   └── Enterprise_MultiDoc_Copilot/            # PDF/Excel parent-child citation copilot
+│
+├── 👁️ Computer Vision Projects/
+│   ├── VLM_Video_QA_Summarizer/                # Qwen2-VL video scene QA
+│   └── Multi_Camera_Object_Counting_App/       # YOLOv8 + DeepSORT virtual line counter
+│
+├── 🔤 Advanced NLP Projects/
+│   ├── Multilingual_Translation_Summarization_Engine/ # Hugging Face translation pipeline
+│   └── Custom_NER_Relation_Extraction_Pipeline/# spaCy / PyTorch entity relation extraction
+│
+└── 📊 Data Analysis Projects/
+    ├── AutoML_Feature_Engineering_Engine/     # Optuna + LightGBM AutoML pipeline
+    └── Time_Series_Predictive_Analytics_Dashboard/ # Prophet forecasting Streamlit UI
 ```
-
----
-
-## 🚀 Featured AI Mobile & FullStack Web Projects
-
-### 📱 AI Mobile & FullStack Web Apps
-Cross-platform mobile apps, Next.js React agent web portals, multi-tenant enterprise SaaS systems, and edge vision scanner setups.
-- **[AI_Powered_Flutter_Mobile_App](./AI%20Mobile%20%26%20FullStack%20Web%20Apps/AI_Powered_Flutter_Mobile_App)**: Cross-platform Flutter setup with ExecuTorch/MediaPipe on-device LLM integration and FastAPI backend.
-- **[FullStack_MultiModal_Agent_Web_App](./AI%20Mobile%20%26%20FullStack%20Web%20Apps/FullStack_MultiModal_Agent_Web_App)**: Next.js React frontend, Tailwind CSS, and FastAPI backend for real-time voice & vision agent processing.
-- **[Enterprise_AI_SaaS_Dashboard](./AI%20Mobile%20%26%20FullStack%20Web%20Apps/Enterprise_AI_SaaS_Dashboard)**: SaaS architecture template with subscription tiering, token metering, and auth API.
-- **[Edge_Vision_Mobile_Scanner_App](./AI%20Mobile%20%26%20FullStack%20Web%20Apps/Edge_Vision_Mobile_Scanner_App)**: Offline real-time mobile scanner utilizing ONNX Mobile Runtime for sub-15ms object detection.
 
 ---
 
@@ -75,9 +77,9 @@ Cross-platform mobile apps, Next.js React agent web portals, multi-tenant enterp
 
 - **Frontend & Mobile:** Flutter (Dart), Next.js, React, Tailwind CSS, Streamlit
 - **Backend & APIs:** FastAPI, Pydantic, Uvicorn, Python (3.11+)
-- **On-Device & Edge AI:** ExecuTorch, MediaPipe, ONNX Mobile Runtime, TensorRT
-- **Generative AI & Agents:** LangChain, LangGraph, CrewAI, Tavily API, OpenAI API
-- **AI Safety & MLOps:** NeMo Guardrails, RAGAS, SHAP, LIME, Docker, GitHub Actions, PyTest
+- **Generative AI & LLMs:** LangChain, LangGraph, LlamaIndex, Unsloth, QLoRA, vLLM, Neo4j GraphRAG
+- **Computer Vision & VLM:** OpenCV, YOLOv8 / YOLOv10, ONNX Runtime, TensorRT, DeepSORT, Qwen2-VL
+- **AI Safety & MLOps:** NeMo Guardrails, RAGAS, SHAP, LIME, Optuna, Docker, GitHub Actions, PyTest
 
 ---
 
