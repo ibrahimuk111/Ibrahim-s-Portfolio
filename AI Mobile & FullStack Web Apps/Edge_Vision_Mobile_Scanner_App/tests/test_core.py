@@ -1,0 +1,14 @@
+"""
+Author: Muhammad Ibrahim
+Email: ukibrahim111@gmail.com
+GitHub: https://github.com/ibrahimuk111
+Project: Edge_Vision_Mobile_Scanner_App
+Copyright (c) 2026 Muhammad Ibrahim. All rights reserved.
+"""
+
+from src.onnx_mobile import ONNXMobileScanner
+
+def test_scanner():
+    s = ONNXMobileScanner()
+    res = s.scan_camera_frame()
+    assert res["latency_ms"] < 30
