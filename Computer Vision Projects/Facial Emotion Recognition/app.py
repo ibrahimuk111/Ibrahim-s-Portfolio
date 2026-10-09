@@ -1,0 +1,25 @@
+"""
+Author: Muhammad Ibrahim
+Email: ukibrahim111@gmail.com
+GitHub: https://github.com/ibrahimuk111
+Project: Facial Emotion Recognition
+Copyright (c) 2026 Muhammad Ibrahim. All rights reserved.
+"""
+
+import streamlit as st
+from src.core import FacialEmotionRecognitionEngine
+
+def main():
+    st.set_page_config(page_title="Facial Emotion Recognition", page_icon="🚀")
+    st.title("🚀 Facial Emotion Recognition")
+    st.caption("Author: Muhammad Ibrahim | ukibrahim111@gmail.com")
+    
+    engine = FacialEmotionRecognitionEngine()
+    inp = st.text_input("Input Parameter", "Default Sample Input")
+    
+    if st.button("Execute Pipeline"):
+        res = engine.process(inp)
+        st.json(res)
+
+if __name__ == "__main__":
+    main()

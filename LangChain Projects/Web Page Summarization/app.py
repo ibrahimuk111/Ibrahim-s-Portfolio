@@ -1,3 +1,11 @@
+"""
+Author: Muhammad Ibrahim
+Email: ukibrahim111@gmail.com
+GitHub: https://github.com/ibrahimuk111
+Project: Web Page Summarization
+Copyright (c) 2026 Muhammad Ibrahim. All rights reserved.
+"""
+
 import validators
 import streamlit as st
 from langchain.chat_models import ChatOpenAI

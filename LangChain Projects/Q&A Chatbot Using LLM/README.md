@@ -89,3 +89,14 @@ Use OpenAI APIs according to their terms. Ensure content complies with applicabl
 ## Author
 
 **Ibrahim** — Applied AI/ML Engineering (NLP, LLMs, RAG, Machine Learning)
+
+---
+
+## Author & Licensing
+
+**Author:** Muhammad Ibrahim  
+**Email:** [ukibrahim111@gmail.com](mailto:ukibrahim111@gmail.com)  
+**GitHub:** [https://github.com/ibrahimuk111](https://github.com/ibrahimuk111)  
+**License:** MIT License - Copyright (c) 2026 Muhammad Ibrahim
+
+If you find this project useful, please consider giving it a star and connecting with me for collaborations.
