@@ -1,10 +1,10 @@
-# Portfolio: Enterprise AI/ML Systems & Modern Architecture
+# Portfolio: Enterprise AI/ML/DL Systems & Modern Architecture
 
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Author](https://img.shields.io/badge/Author-Muhammad%20Ibrahim-orange.svg)](https://github.com/ibrahimuk111)
 
-Welcome to the central repository for **Muhammad Ibrahim's** Data Science, Machine Learning, AI Engineering, and Systems Architecture portfolio. This repository serves as a comprehensive showcase of end-to-end production systems, spanning Generative AI, Large Language Models (LLMs), Agentic Systems, Full-Stack & Mobile AI Applications, AI Safety & Guardrails, MLOps Pipelines, Edge Computer Vision, and Privacy-Preserving Artificial Intelligence.
+Welcome to the central repository for **Muhammad Ibrahim's** Data Science, Machine Learning ,Deep Learning, AI Engineering, and Systems Architecture portfolio. This repository serves as a comprehensive showcase of end-to-end production systems, spanning Generative AI, Large Language Models (LLMs), Agentic Systems, Full-Stack & Mobile AI Applications, AI Safety & Guardrails, MLOps Pipelines, Edge Computer Vision, and Privacy-Preserving Artificial Intelligence.
 
 ---
 
